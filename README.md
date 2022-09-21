@@ -1,4 +1,4 @@
 # DI
 описание
 
-![d](image)
+![d](image.webp)
